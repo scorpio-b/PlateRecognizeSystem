@@ -1,4 +1,4 @@
-# LicensePlateRecognitionSystem
+# PlateRecognizeSystem
 车牌号码识别系统
 
 ## 设计思路
